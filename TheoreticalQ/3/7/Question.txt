@@ -1,0 +1,1 @@
+This is one of the most important tools in functional programming. It  avoids loops, and makes the code more readable, as well as prevent any side-effects.

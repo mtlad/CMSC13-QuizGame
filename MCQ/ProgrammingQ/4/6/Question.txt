@@ -1,0 +1,6 @@
+This will be changed to limit of number to be printed but doesn’t affect the range of the list
+
+numbers = range(3, 99, 3)
+for number in numbers:
+    if number > 10 and number <= 30:
+        print(number)

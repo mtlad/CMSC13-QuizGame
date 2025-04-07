@@ -1,0 +1,1 @@
+What is the term for abstract classes that provide empty implementation of all methods in the Listener interface?

@@ -1,0 +1,1 @@
+Local variables are unknown to functions outside their own.

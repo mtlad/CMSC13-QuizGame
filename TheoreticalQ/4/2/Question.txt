@@ -1,0 +1,1 @@
+This is a building block in Java which is similar to that of a function in algebra, such that it has a name and computes depending on the values specified by the user.

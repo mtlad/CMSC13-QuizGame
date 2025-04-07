@@ -1,0 +1,1 @@
+Which essential part of a pattern works as the template which can be fulfilled with code?

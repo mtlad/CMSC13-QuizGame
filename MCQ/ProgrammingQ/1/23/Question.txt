@@ -1,0 +1,8 @@
+What should be added so that the program prints the entire string?
+
+#include <stdio.h>
+int main(){ 
+    char ______ ="I'm already tired."; 
+    printf("%s\n", talk); 
+    return 0; 
+}

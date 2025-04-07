@@ -1,0 +1,1 @@
+It is a MouseEvent method that returns x and y positions of the mouse with respect to the component when the event occurs?

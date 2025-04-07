@@ -1,0 +1,11 @@
+How would it be changed to only display non-zero or zero outputs?
+
+import java.util.Scanner;
+public class Example5 {
+public static void main(String[] args){
+    Scanner in = new Scanner(System.in);
+    System.out.print("Input a number: ");
+    int n = in.nextInt();
+    --- insert code ---
+}
+}

@@ -1,0 +1,11 @@
+Determine the output of the program.
+
+#include <stdio.h>
+
+void main(){
+    int num = 7;
+    int *num2 = &num;
+    int **num3 = &num2;
+    printf("%d %d %d", num, *num2, **num3);
+    return 0;
+}

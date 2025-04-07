@@ -1,0 +1,2 @@
+else{
+System.out.println("Number is zero");

@@ -1,0 +1,16 @@
+Which change/s will result in changing {33, 44, 77, 11, 4} to { 33, 44, 63, 77, 11}?
+
+import java.util.Arrays; 
+public class Example4 {
+ 
+public static void main(String[] args) {
+    int[] arr = {33, 44, 77, 11, 4};   
+    int indPos = 4;
+    int newV = 55;
+        for (int i=arr.length-1; i > indPos; i--){
+            arr[i] = arr[i-1];
+        }
+    arr[indPos] = newV;
+    System.out.println(Arrays.toString(arr));
+}
+}

@@ -1,0 +1,1 @@
+for (int i = 0; i < str.length(); i++){ loop does not start for consonant

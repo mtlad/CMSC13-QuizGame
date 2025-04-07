@@ -1,0 +1,5 @@
+Which programming paradigm would best apply for the following program characteristics? (Hooligan, 2016)
+   i. Program is static.
+  ii. Changes expected to be done in the program are only little to none.
+ iii. Program has few shared elements.
+  iv. There is a complex operation which includes dependencies between operations, and when there is a need for clear visibility of the different application states

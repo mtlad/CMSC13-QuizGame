@@ -1,0 +1,16 @@
+Which among the following snippets would call the constructor twice?
+
+#include<iostream>
+using namespace std;
+
+class Talk{
+public:
+    Talk(){ 
+        cout << "Hello" << endl; 
+    }
+};
+ 
+int main(){
+   ___________
+   return 0;
+}

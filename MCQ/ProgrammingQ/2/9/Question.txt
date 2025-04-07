@@ -1,0 +1,15 @@
+Determine the output of the program.
+
+#include<iostream>
+using namespace std;
+ 
+class func{
+public:
+    int n;
+};
+ 
+int main(){
+    func x = {78}, y = x;
+    cout << x.n << " " << y.n;
+    return 0;
+}

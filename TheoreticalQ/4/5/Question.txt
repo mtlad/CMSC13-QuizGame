@@ -1,0 +1,1 @@
+Java does not allow a class to extend more than one class. However there is a way to achieve this, which is through ______.

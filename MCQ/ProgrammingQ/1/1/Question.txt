@@ -1,0 +1,11 @@
+Given the following code, what will be the program’s output?
+
+#include <stdio.h>
+
+int main(){
+    char str[100];
+    printf("%d");
+    scanf("%s", str);
+
+    return 1;
+}

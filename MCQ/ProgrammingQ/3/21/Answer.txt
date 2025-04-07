@@ -1,0 +1,2 @@
+if (n == 0){System.out.println("zero");}
+else{System.out.println("no-zero");}

@@ -1,0 +1,1 @@
+The following are places where variables can be declared in C programming, except for one.

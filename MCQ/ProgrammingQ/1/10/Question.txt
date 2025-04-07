@@ -1,0 +1,19 @@
+What will be the output of the program below?
+
+#include<stdio.h>
+int main(){
+  char talk ='z';
+
+  switch(talk){
+    case 'x':
+       printf("Bonjour");
+       break;
+    case 'y':
+       printf("Annyeonghaseyo");
+       break;
+    case 'z':
+       printf("Kumusta");
+       break;
+  }
+  return 0;
+}

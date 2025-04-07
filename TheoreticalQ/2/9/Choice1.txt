@@ -1,0 +1,1 @@
+They can only be used by statements of the same function.

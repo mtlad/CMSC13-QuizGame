@@ -1,0 +1,1 @@
+A class can extend two or more classes.

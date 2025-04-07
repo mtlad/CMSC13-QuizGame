@@ -1,0 +1,1 @@
+A function must take an argument.

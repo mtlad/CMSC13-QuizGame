@@ -1,0 +1,1 @@
+Pattern matching allows for fewer lines of variable assignment, and more lines of readable code. It gives us a way to extract from objects, match on members of objects, and verify the types of the objects— within or outside a statement.

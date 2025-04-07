@@ -1,0 +1,1 @@
+What is the first consideration to be made in choosing a design pattern?

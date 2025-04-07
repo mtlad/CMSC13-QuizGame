@@ -1,0 +1,2 @@
+if(my_array[i]==min){
+second_min=min; }

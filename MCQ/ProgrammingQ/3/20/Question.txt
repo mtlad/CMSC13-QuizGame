@@ -1,0 +1,14 @@
+How does output change with the missing line?
+
+import java.util.Arrays; 
+public class Example4 {
+ 
+public static void main(String[] args) {
+    int[] arr = {33, 44, 77, 11, 4};   
+    int indPos = 4;
+    int newV = 55;
+        --------------
+    arr[indPos] = newV;
+    System.out.println(Arrays.toString(arr));
+}
+}

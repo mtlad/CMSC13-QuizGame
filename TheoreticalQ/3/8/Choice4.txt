@@ -1,0 +1,1 @@
+A function can take 0 to n number of inputs, and can produce 0 to n number of outputs.

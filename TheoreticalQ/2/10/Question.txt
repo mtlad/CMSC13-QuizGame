@@ -1,0 +1,1 @@
+In a C program, all instructions are contained in functions. What is the special function which the program runs first? All other functions are subroutines of this special function, or otherwise dependent procedures.

@@ -1,0 +1,13 @@
+The code below prints 100, when the program is run. 
+What will be the expected output if line 6 is changed to y = x, instead of x = y ?
+
+#include<stdio.h>
+
+int main(){
+    int x = 10;
+    int y = 100;
+    y = x;
+    
+    printf("%d\n", x);
+    return 0;
+}

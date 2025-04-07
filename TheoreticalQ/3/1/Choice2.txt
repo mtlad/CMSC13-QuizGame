@@ -1,0 +1,1 @@
+the output of the program is not dependent on the input.

@@ -1,0 +1,8 @@
+What should be in the missing line, so that the program prints 54 from the array num?
+
+#include<stdio.h>
+
+main(){ 
+   int num[5] = {23, 1, 55, 54, 9};  
+   _____________________ 
+}

@@ -1,0 +1,1 @@
+numbers = range(3, x, x)

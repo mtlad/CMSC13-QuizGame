@@ -1,0 +1,1 @@
+Modularity enables parts of a system to be edited or updated without the need to make large-scale changes.

@@ -1,0 +1,1 @@
+The child class generalizes the attributes and behavior of its parent, making the class more generalized.

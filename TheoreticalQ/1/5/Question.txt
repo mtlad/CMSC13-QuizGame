@@ -1,0 +1,1 @@
+This basically isolates an object from its environment. Interfaces can remain the same, and changes to objects do not affect other parts of the system.

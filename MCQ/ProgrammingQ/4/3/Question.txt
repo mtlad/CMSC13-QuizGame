@@ -1,0 +1,6 @@
+How would the output be displayed
+
+numbers = range(3, 99, 3)
+for number in numbers:
+    if number > 10 and number <= 30:
+        print(number)

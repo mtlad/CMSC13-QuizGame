@@ -1,0 +1,1 @@
+Which Category does not use primarily use inheritance in its patterns?

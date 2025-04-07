@@ -1,0 +1,1 @@
+Rather than specifying how tasks are to be done, this paradigm dictates what is expected to be done.

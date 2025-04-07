@@ -1,0 +1,1 @@
+Anonymous functions are functions with no names, limited scope, and are available only for a short time.

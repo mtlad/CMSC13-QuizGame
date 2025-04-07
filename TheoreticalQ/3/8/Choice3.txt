@@ -1,0 +1,1 @@
+A function takes no input, but gives 0 to n number of outputs.

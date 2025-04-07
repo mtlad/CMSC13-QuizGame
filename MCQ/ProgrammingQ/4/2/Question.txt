@@ -1,0 +1,12 @@
+What would be the data type of the output of the given program?
+
+def converTuple(tup):
+    StringX = ''
+    for ItemY in tup:
+        StringX += ItemY
+    return StringX
+
+Letters = ('c', 'o', 'm', 'p', 'u', 't', 'e', 'r')
+ReverseL = reversed(Letters)
+StringP = converTuple(ReverseL)
+print(StringP)

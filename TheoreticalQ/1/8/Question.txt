@@ -1,0 +1,1 @@
+A language is called a multi-paradigm language when it supports two or more programming paradigms. A multi-paradigm language can be either designed purposely or accidentally designed to support multiple paradigms.

@@ -1,0 +1,1 @@
+It is a MouseEvent method that returns the absolute x and y positions of the mouse at the time the event occurs?

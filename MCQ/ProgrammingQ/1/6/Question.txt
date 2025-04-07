@@ -1,0 +1,12 @@
+Determine the output of the program.
+
+#include <stdio.h>
+
+int main(){
+    int int1 = 10;
+    int int2 = 1000;
+ 
+    printf("%d",(int1 + 5),(int2 = int1 + 15));
+    printf(" %d", int2);
+    return 0;
+}

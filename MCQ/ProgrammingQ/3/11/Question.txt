@@ -1,0 +1,9 @@
+Which change will result in an output of the second “e”?
+
+public class Example3 {
+public static void main(String[] args){
+    String mainString = "Computer Science";
+    int index = mainString.charAt(4);
+    System.out.println((char)index);
+}
+}

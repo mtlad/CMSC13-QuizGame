@@ -1,0 +1,2 @@
+int indexPos = 3;
+int newValue = 63;

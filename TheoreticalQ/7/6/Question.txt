@@ -1,0 +1,1 @@
+What are structural patterns useful for?

@@ -1,0 +1,1 @@
+When a child class is created, it inherits attributes from its parent and only the additional attributes and behavior have to be coded.

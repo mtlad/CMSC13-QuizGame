@@ -1,0 +1,1 @@
+It can be accessed outside its class.

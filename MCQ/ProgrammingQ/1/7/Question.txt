@@ -1,0 +1,7 @@
+Which among the following will make the program run?
+
+#include <stdio.h>
+
+main(){
+   // insert code
+}

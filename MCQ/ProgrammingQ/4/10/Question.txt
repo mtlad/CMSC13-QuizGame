@@ -1,0 +1,6 @@
+How does missing the if statement affect the program
+
+numbers = range(3, 99, 3)
+for number in numbers:
+    --------------------
+        print(number)

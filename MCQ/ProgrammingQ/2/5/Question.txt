@@ -1,0 +1,26 @@
+Given the program, fill in the blanks so that “num: 50” is the output.
+
+#include<iostream>
+using namespace std;
+  
+class Class{
+private:
+    int num;
+public:
+    void setNum (int num){ 
+        Class::num = num; 
+    }
+    void print(){ 
+        cout << "num: " << num; 
+    }
+};
+  
+int main(){
+    Class c;
+    int num = 40;
+    int x = 50;
+    ________________
+    c.print();
+
+    return 0;
+}

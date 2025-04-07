@@ -1,0 +1,1 @@
+It is a programming construct in java that doesn’t evaluate at the start of the loop

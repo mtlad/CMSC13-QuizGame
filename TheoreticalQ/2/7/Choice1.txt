@@ -1,0 +1,1 @@
+procedural programming relies on what the program is expected to do.

@@ -1,0 +1,21 @@
+Which among the following would make the program below print the default?
+
+#include<stdio.h>
+int main(){
+  int _______________
+  switch(choice){
+    case 0:
+       printf("Choice 0 ");
+       break;
+    case 1:
+       printf("Choice 1 ");
+       break;
+     case 2:
+       printf("Choice 2 ");
+       break;
+    default:
+       printf("Default ");
+       break;
+  }
+  return 0;
+}

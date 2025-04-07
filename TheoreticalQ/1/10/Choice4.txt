@@ -1,0 +1,1 @@
+Polymorphism enables objects of different types to be accessed through the same interface.

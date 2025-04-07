@@ -1,0 +1,17 @@
+Which among the following code snippets will print 100?
+
+#include <iostream>
+using namespace std;
+int num = 100;  
+
+void func(){
+    int num = 12;{
+        int num = 6;
+        ______________ 
+    }
+}
+  
+int main(){
+    func();
+    return 0;
+}

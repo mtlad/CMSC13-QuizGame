@@ -1,0 +1,9 @@
+What would be the given output of given code?
+
+public class Example2 {
+    public static void main(String[] args){
+        String mainString = "Input";
+        System.out.println(mainString.substring
+        (0, mainString.length()/2));
+    }
+ }

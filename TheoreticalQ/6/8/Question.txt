@@ -1,0 +1,1 @@
+What form of clauses and resolutions are of interest in logic programming?

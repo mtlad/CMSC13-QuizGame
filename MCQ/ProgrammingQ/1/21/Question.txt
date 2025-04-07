@@ -1,0 +1,15 @@
+Determine the output of the program.
+
+#include<stdio.h> 
+
+int f(int *a, int *b) { 
+  a = b; 
+  *a = 2; 
+} 
+
+int main() { 
+  int int1 = 0, int2 = 1; 
+  f(&int1, &int2); 
+  printf("%d %d \n", int1, int2);    
+  return 0; 
+}

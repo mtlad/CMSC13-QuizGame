@@ -1,0 +1,4 @@
+Which of the following is/are false about variables in C programming?
+  	  i.  Local variables are unknown for functions outside their own. 
+ 	 ii. Global variables are available for use throughout the entire program.
+	iii. A program can have the same name for local and global values.

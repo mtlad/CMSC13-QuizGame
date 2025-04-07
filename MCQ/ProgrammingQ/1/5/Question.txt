@@ -1,0 +1,19 @@
+What will be the expected output of the program below?
+
+#include<stdio.h>
+
+int x(int);
+
+int main(){
+    int i = 75, c;
+    c = x(i);
+    printf("%d \n", c);
+    return 0;
+}
+
+int x(int y){
+    if(y >= 50){
+        return 100;
+    }else
+        return 22;
+}

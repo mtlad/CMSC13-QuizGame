@@ -1,0 +1,11 @@
+So that the program below prints -2, what should be the operand in the blank in the program below?
+
+#include<stdio.h>
+
+int main(){
+    int n1 = -5;
+    int n2 = -17;
+    int x = n2 __ n1;
+    printf("%d\n", x);
+    return 0;
+}

@@ -1,0 +1,6 @@
+What will be the output of a given program with input 10 and 16.9?
+
+var_X = float(input("First Number: "))
+var_Y = float(input("Second Number: "))
+sum = var_X + var_Y
+print("sum: " + str(sum))

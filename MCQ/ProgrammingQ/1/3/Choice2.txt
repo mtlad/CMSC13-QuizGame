@@ -1,0 +1,2 @@
+Exchange int int sum = add(10, 3.14); into float.
+The program output is 13.14.

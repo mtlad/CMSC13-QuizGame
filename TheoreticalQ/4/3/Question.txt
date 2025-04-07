@@ -1,0 +1,4 @@
+Methods in Java are used to divide complicated programs into smaller parts. Its benefits include:
+           i. Different people can work on different programs simultaneously.
+          ii.  It can be written once, then used multiple times.
+         iii. It enhances the program’s readability though it adds complexity for the main method.

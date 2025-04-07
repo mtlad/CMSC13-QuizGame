@@ -1,0 +1,9 @@
+Determine the output of the program.
+
+#include<stdio.h>
+
+int main(){
+  printf("Greetings!" + 1 + 1);
+  return 0;
+}
+

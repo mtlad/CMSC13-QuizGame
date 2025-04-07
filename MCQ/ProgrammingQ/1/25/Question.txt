@@ -1,0 +1,13 @@
+Determine the output of the program.
+
+#include <stdio.h>
+
+int x = 24, y = 56;
+
+int mult(y){ 
+    return(x * y); 
+}
+
+int main(){
+    printf("%d\n", mult(33));
+}

@@ -1,0 +1,1 @@
+Encapsulation enables relevant and essential information to be visible, while abstraction enables the implementation of the desired level of encapsulation.

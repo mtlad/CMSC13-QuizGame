@@ -1,0 +1,8 @@
+How will the missing line be changed to result in output of “Inp”?
+
+public class Example2 {
+    public static void main(String[] args){
+        String mainString = "Input";
+        System.out.println(mainString.---------);
+    }
+ }

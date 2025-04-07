@@ -1,0 +1,1 @@
+What do hardware interrupts replace in an embedded system?

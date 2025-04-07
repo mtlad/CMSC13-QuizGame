@@ -1,0 +1,1 @@
+A function can take no arguments, or can return nothing, or both.

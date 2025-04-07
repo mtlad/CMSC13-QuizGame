@@ -1,0 +1,1 @@
+str.charAt(i) == 'a' || str.charAt(i) == 'A'

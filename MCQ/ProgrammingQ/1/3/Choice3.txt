@@ -1,0 +1,2 @@
+The prototype float add(int, float); is missing.
+The program output is 13.14.

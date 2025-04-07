@@ -1,0 +1,1 @@
+It outputs numbers not within the conditions 30 <= number < 10

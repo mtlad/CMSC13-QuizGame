@@ -1,0 +1,1 @@
+Which structural pattern can be observed in the layers of GUI widget?

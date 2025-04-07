@@ -1,0 +1,1 @@
+An immutable variable can still be modified once it is declared. On the other hand, a mutable variable cannot be modified once created.

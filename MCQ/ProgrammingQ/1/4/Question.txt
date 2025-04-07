@@ -1,0 +1,1 @@
+Which among the following code snippets would round off a float to an int and return 10?

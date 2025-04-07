@@ -1,0 +1,1 @@
+Programming paradigms are ways or styles of classifying programming languages based on their features

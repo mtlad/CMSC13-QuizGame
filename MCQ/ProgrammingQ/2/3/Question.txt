@@ -1,0 +1,28 @@
+Which among the following will print First class?
+
+#include <iostream>
+ 
+using namespace std;
+
+class First{
+public:
+   void print()
+   { cout <<"First class"; }
+};
+ 
+class Second: public First{
+public:
+   void print(){ 
+       cout <<"Second class"; 
+   }
+};
+ 
+class Third: public First{
+};
+ 
+int main(void){
+  Second cl;
+  cl.print();
+    
+  return 0;
+}

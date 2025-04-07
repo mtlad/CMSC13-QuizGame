@@ -1,0 +1,1 @@
+The oldest programming paradigm, the imperative programming paradigm, works by changing the program state through assignment statements. It is based on what machine architecture?

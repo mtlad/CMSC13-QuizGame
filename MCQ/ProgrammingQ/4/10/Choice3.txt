@@ -1,0 +1,1 @@
+It outputs all numbers from 3 to 99 in intervals of 3

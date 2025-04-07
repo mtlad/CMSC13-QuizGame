@@ -1,0 +1,16 @@
+To be able to print the string “I am alive!” twice, what should be written in the space?
+
+#include<iostream>
+using namespace std;
+  
+void talk(){
+  cout << "I am alive!" << endl;
+}
+
+int main(){
+  
+/*   fill in 
+       code    */
+    
+  return 0;
+}

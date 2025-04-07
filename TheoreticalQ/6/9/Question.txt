@@ -1,0 +1,1 @@
+This terminology refers to the fact that symbols are used to express properties of elements of a fixed domain of discourse D.

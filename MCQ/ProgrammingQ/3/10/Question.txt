@@ -1,0 +1,9 @@
+How did it arrive at an output of In?
+
+public class Example2 {
+    public static void main(String[] args){
+        String mainString = "Input";
+        System.out.println(mainString.substring
+        (0, mainString.length()/2));
+    }
+ }

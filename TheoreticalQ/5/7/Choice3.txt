@@ -1,0 +1,1 @@
+It has to trigger a second event handler

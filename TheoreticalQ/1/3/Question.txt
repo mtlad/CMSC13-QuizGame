@@ -1,0 +1,1 @@
+Programming languages that apply this paradigm attempt to minimize or eliminate side effects by describing what the program must accomplish in terms of the problem domain, rather than describe how to accomplish it as a sequence of the programming language primitives.

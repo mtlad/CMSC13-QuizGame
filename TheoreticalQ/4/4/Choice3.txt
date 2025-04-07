@@ -1,0 +1,1 @@
+A child class inherits attributes from its parents, and additional attributes cannot be added.

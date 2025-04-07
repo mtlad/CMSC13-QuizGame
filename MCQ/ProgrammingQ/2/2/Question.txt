@@ -1,0 +1,16 @@
+Determine the output of the program.
+
+#include <iostream>
+using namespace std;
+ 
+int tthrow(){
+    throw 5;
+}
+ 
+int main(){
+    try{
+        tthrow();
+    }catch (int ){
+        cout << "How are you?";
+    }
+}

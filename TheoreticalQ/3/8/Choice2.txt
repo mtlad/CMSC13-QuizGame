@@ -1,0 +1,1 @@
+A function takes an input, and gives an output.

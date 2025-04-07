@@ -1,0 +1,1 @@
+the same output will be given when calling the same function, with the same argument, twice or more.

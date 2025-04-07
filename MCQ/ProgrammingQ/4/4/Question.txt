@@ -1,0 +1,6 @@
+How is it possible to have sums such as 26.9 that contain decimals?
+
+var_X = float(input("First Number: "))
+var_Y = float(input("Second Number: "))
+sum = var_X + var_Y
+print("sum: " + str(sum))

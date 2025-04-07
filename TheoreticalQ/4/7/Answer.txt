@@ -1,0 +1,1 @@
+Object-oriented programs are typically slower as they require more instructions to be executed.

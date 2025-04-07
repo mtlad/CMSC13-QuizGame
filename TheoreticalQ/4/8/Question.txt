@@ -1,0 +1,1 @@
+Sometimes, it may be necessary for a member of a superclass to be directly accessed in a subclass yet still prevent its direct access outside the class. What type of access modifier is this?

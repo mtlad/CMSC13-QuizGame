@@ -1,0 +1,12 @@
+What does the missing line affect with the final output
+
+def converTuple(tup):
+    StringX = ''
+    for ItemY in tup:
+        StringX += ItemY
+    return StringX
+
+Letters = ('c', 'o', 'm', 'p', 'u', 't', 'e', 'r')
+-------------------------------
+StringP = converTuple(ReverseL)
+print(StringP)

@@ -1,0 +1,1 @@
+int nextLeap = 4 - (year % 100)

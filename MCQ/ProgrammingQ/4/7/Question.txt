@@ -1,0 +1,6 @@
+Which makes range of number in list to be in intervals of 3
+
+numbers = range(3, 99, 3)
+for number in numbers:
+    if number > 10 and number <= 30:
+        print(number)

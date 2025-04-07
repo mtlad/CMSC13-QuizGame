@@ -1,0 +1,1 @@
+They can be declared outside functions.

@@ -1,0 +1,1 @@
+It is not the central element of an event-driven application

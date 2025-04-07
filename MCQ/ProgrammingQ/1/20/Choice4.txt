@@ -1,0 +1,3 @@
+*ptr = 45;
+ptrf(&i);
+printf("%d\n", i);

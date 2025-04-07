@@ -1,0 +1,1 @@
+If all fields are immutable, the object is immutable.

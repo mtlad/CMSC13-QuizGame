@@ -1,0 +1,2 @@
+else if (my_array[i] < second_min){
+second_min = my_array[i]; }

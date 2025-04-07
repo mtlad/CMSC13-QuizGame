@@ -1,0 +1,1 @@
+Object-oriented programming is easy to maintain, and it provides improved software-development productivity over traditional procedure-based programming techniques because of these three factors: modularity, reusability, and extensibility. Which of the following is incorrect about these factors?

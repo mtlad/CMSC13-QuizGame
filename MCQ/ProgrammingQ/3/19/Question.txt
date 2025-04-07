@@ -1,0 +1,9 @@
+How will index declaration be changed to count string length: 16?
+
+public class Example3 {
+public static void main(String[] args){
+    String mainString = "Computer Science";
+    int index = mainString.------;
+    System.out.println(index);
+}
+}

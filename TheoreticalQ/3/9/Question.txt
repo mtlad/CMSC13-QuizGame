@@ -1,0 +1,1 @@
+These functions are autonomous. They do not rely on data outside its current function, and neither do they change data outside its scope.

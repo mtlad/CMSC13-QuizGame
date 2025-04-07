@@ -1,0 +1,1 @@
+In functional programming, the code defines what the program is expected to do, rather than how to do it. Therefore, functional programming is

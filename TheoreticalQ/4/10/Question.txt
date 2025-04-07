@@ -1,0 +1,1 @@
+A class member can be classified into categories: private, public, protected, or none. We know that when a class member is private, it cannot be accessed outside its class. On a different note, what happens when a class member is declared without a modifier?

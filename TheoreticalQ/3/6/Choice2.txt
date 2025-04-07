@@ -1,0 +1,1 @@
+Higher-order functions can take other functions as inputs, or return other functions as outputs.

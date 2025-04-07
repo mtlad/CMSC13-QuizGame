@@ -1,0 +1,14 @@
+The code below does not run. 
+Determine the mistake and the output.
+
+#include<stdio.h>
+    
+int main(){
+    int sum = add(10, 3.14);
+    printf("%d\n", sum);
+    return 0;
+}
+
+float add(int x, float y){
+    return ((float)x + y);
+}

@@ -1,0 +1,12 @@
+Consider the program below. 
+What should be filled in the blank so that the program prints 234567?
+
+#include<stdio.h>
+int main(){
+  int num = 2;
+  _____________{
+    printf("%d", num);
+    num++;
+  }
+  return 0;
+}

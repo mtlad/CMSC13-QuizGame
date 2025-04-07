@@ -1,0 +1,1 @@
+Programming languages are limited to supporting a single paradigm.

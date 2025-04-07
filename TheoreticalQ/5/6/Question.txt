@@ -1,0 +1,1 @@
+What is the specific reason why Event Schedulers considered central element of event-driven application?

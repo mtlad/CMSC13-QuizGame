@@ -1,0 +1,1 @@
+Extensibility enables objects to be extended to include new attributes and behaviors through inheritance.

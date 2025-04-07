@@ -1,0 +1,12 @@
+Determine the output of the program.
+
+#include <iostream>
+using namespace std;
+
+int main(){
+	char *str = "HELLO";
+	cout<<str<<" ";
+	str++;
+	cout<<str<<" ";
+	return 0;
+}

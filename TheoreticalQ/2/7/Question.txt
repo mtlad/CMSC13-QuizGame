@@ -1,0 +1,1 @@
+Procedural programming languages are also called top-down languages. This is mainly because:

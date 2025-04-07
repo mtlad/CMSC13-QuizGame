@@ -1,0 +1,1 @@
+Pure functions cannot alter the state of a system and will always perform the same computation. Which of the following is an example of a pure function?

@@ -1,0 +1,1 @@
+It is the programming paradigm that is often described as the opposite of Imperative programming

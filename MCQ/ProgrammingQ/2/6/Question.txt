@@ -1,0 +1,17 @@
+What is the output of the program?
+
+#include <iostream>
+using namespace std;
+int num = 100;  
+
+void func(){
+    int num = 12;{
+        int num = 6;
+        cout << num; 
+    }
+}
+  
+int main(){
+    func();
+    return 0;
+}

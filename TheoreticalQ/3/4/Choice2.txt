@@ -1,0 +1,1 @@
+In cases where some internally used attributes of a variable change but its external state is unchanging, the variable will not be considered immutable.
